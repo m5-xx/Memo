@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/it_item"
+            android:title="call"
+            android:icon="@drawable/icn_1"
+            />
+        <item
+            android:id="@+id/it_item1"
+            android:title="one"
+            android:icon="@drawable/icn_2"
+            />
+
+        <item
+            android:id="@+id/it_item2"
+            android:title="two"
+            android:icon="@drawable/icn_3"
+            />
+
+        <item
+            android:id="@+id/it_item3"
+            android:title="three"
+            android:icon="@drawable/icn_4"/>
+
+    </group>
+
+</menu>
